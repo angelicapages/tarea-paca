@@ -1,0 +1,51 @@
+
+
+/*#titulo {
+    font-family: 'Playfair Display', serif;
+    color:#f7aef8 ;
+    text-align: center;
+}
+
+
+.color-azul {
+    color: blue;
+}
+
+.color-celeste {
+    color: aquamarine;
+}
+
+.color-verde {
+    color: green;
+}
+
+.color-amarillo {
+    color: yellow;
+}
+
+.color-naranja {
+    color: orange;
+}
+
+.color-rojo {
+    color: red;
+}
+*/
+
+.imagen1 {
+    display: flex;
+    height: 200px;
+    width: 200px;
+}
+
+.imagen2 {
+    display: flex;
+    height: 500px;
+    width: 500px;
+}
+
+.imagen3 {
+    display: flex;
+    height: 800px;
+    width: 800px;
+}
